@@ -1,0 +1,54 @@
+.titulo {
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+.botão {
+    border: none;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: rgb(37, 212, 14);
+    transition-duration: 0.4ms;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.botão1:hover {
+    background-color: rgb(44, 236, 19);
+    color: white;
+    box-shadow: 0 10px 15px 0 rgb(0, 0, 24), 0 10px 15px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 0.5ms;
+}
+
+.botão2:hover {
+    background-color: rgb(44, 236, 19);
+    color: white;
+    box-shadow: 0 10px 15px 0 rgb(0, 0, 24), 0 10px 15px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 0.5ms;
+}
+
+.botão3:hover {
+    background-color: rgb(44, 236, 19);
+    color: white;
+    box-shadow: 0 10px 15px 0 rgb(0, 0, 24), 0 10px 15px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 0.5ms;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+}
