@@ -1,0 +1,52 @@
+.titulo {
+    background-color: rgb(255, 255, 255);
+    color: #0e0d0d;
+    text-align: center;
+    padding: 45px 0px;
+    font-size: 50px;
+    margin: auto;
+
+}
+
+nav {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(37, 212, 14);
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.botão {
+    border: none;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 10px 25px;
+    background-color: rgb(37, 212, 14);
+    transition-duration: 0.4ms;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.botão1:hover {
+    background-color: rgb(44, 236, 19);
+    color: white;
+    transition-duration: 0.5ms;
+}
+
+.botão2:hover {
+    background-color: rgb(44, 236, 19);
+    color: white;
+    transition-duration: 0.5ms;
+}
+
+.botão3:hover {
+    background-color: rgb(44, 236, 19);
+    color: white;
+    transition-duration: 0.5ms;
+}
+
+
+
